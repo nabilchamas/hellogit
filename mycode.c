@@ -5,3 +5,6 @@
 
 
 // here is where a write my new code feature! :D
+
+
+// just stage area
